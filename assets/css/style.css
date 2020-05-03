@@ -1,18 +1,47 @@
 
+   body {background-image: url(https://cdn1.vectorstock.com/i/1000x1000/71/55/basketball-court-and-ball-vector-1737155.jpg);
+background-repeat: no-repeat;
+background-size: 1550px 1100px;
+font-weight: bolder;
 
 
-.hide {
-    display: none;
+font-size: 30px;
+}
+h1 {color: white;}
+
+
+#teamone-shoot-button {
+    padding: 15px 20px;
+    font-weight: bolder;
+}
+#teamtwo-shoot-button{
+padding: 15px 20px;
+font-weight: bolder;
+background-color: black;
+color: white;
+}
+#reset-button {background-color:black;
+    color: white;
+    padding: 20px 25px;
+}
+    
+   
+
+
+.hide 
+{display: none;
 }
 .left {
     float: left;
 }
 .right {
     float: right;
+    
 }
 .clear {
     clear: both;
 }
 #reset-container, h1 {
     text-align: center;
+    ;
 }
